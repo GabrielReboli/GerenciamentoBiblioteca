@@ -11,6 +11,8 @@ Como o projeto é muito grande, ele foi hospedado no Google Drive. Clique no lin
 
 **[Download do Projeto no Google Drive](https://drive.google.com/file/d/1Y1-GlSb9Ubfx3qHy9vP4yhw_CZp7UwoT/view?usp=sharing)**
 
+---
+
 ## ⚙️ Funcionalidades
 
 - **Livros:**
