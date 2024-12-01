@@ -5,6 +5,12 @@ Este projeto implementa um sistema de gerenciamento de biblioteca utilizando **C
 
 ---
 
+## 🔗 Link para o Arquivo
+
+Como o projeto é muito grande, ele foi hospedado no Google Drive. Clique no link abaixo para baixar o arquivo compactado:
+
+**[Download do Projeto no Google Drive](https://drive.google.com/file/d/1Y1-GlSb9Ubfx3qHy9vP4yhw_CZp7UwoT/view?usp=sharing)**
+
 ## ⚙️ Funcionalidades
 
 - **Livros:**
@@ -25,14 +31,6 @@ A pasta contém os seguintes arquivos:
 - **`Biblioteca.sql`**: Script SQL para criação do banco de dados e inserção de dados iniciais.
 - **`GerenciamentoBiblioteca.sln`**: Arquivo de solução do Visual Studio para abrir o projeto.
 - **`projeto_biblioteca.pdf`**: Relatório detalhado explicando o funcionamento e a estrutura do projeto.
-
----
-
-## 🔗 Link para o Arquivo
-
-Como o projeto é muito grande, ele foi hospedado no Google Drive. Clique no link abaixo para baixar o arquivo compactado:
-
-**[Download do Projeto no Google Drive](https://drive.google.com/file/d/1Y1-GlSb9Ubfx3qHy9vP4yhw_CZp7UwoT/view?usp=sharing)**
 
 ---
 
